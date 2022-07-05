@@ -1,0 +1,45 @@
+#d{
+    background-color: rgba(200, 200, 200, 0.6);
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 80px;
+    margin-right: 200px;
+    padding-top: 10px;
+}
+#d1{
+    text-align: center;
+}
+h1{
+    font-weight:bold;
+}
+
+#s32{
+    padding-right: 26px;
+}
+#s33{
+    padding-right: 1px;
+}
+td{
+    padding: 10px;
+}
+th{
+    padding: 10px;
+}
+#d3{
+    padding-left: 200px;
+}
+table{
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+  }
+#sub{
+    color: aliceblue;
+    background-color: #2d9aad;
+}
+
+
+
+
+
